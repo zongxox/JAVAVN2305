@@ -1,0 +1,19 @@
+###完成登錄,用戶名存不存在,比較密碼是否正確
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+###測試 先登入後再去查看有沒有保存成功
+###獲取登入後的用戶信息
+GET http://localhost/user/currentUser
+
+
+###移除登入狀態
+##測試方法
+###1.先登入,2.在查詢登入後的用戶信息,3.在移除狀態
+###4.在查詢登入後的用戶信息
+GET http://localhost/user/logout

@@ -1,0 +1,41 @@
+###查詢所有用戶信息
+GET http://localhost:8080/getUserAll
+
+
+###通過用戶id查詢
+GET http://localhost:8080/getUserById?id=1
+
+
+###RESTful風格,通過用戶id查詢,跟上面的區別,這個比較簡單
+GET http://localhost:8080/user/1
+
+
+###新增用戶信息
+POST http://localhost:8080/postUser1
+Content-Type: application/json
+
+
+{
+  "username": "ttt",
+  "password": "123456",
+  "nickname": "小t"
+}
+
+
+###更新用戶信息
+PUT http://localhost:8080/putUpdate1
+Content-Type: application/json
+
+{
+  "id": 11,
+  "username": "123",
+  "password": "123444",
+  "nickname": "bbb"
+}
+
+
+###刪除用戶信息
+DELETE http://localhost:8080/deleteUser?id=4
+
+###RESTful風格,刪除用戶信息
+DELETE http://localhost:8080/user/4

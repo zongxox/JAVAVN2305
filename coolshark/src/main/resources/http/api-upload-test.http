@@ -1,0 +1,15 @@
+###處理文件上傳
+POST http://localhost/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="picFile"; filename="a.jpg"
+
+< d:/a.jpg
+--WebAppBoundary--
+
+
+
+
+###刪除硬碟文件
+DELETE http://localhost/remove?name=e4dba511-4136-4269-a767-0b9bb3fdebf7.jpg

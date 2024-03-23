@@ -1,0 +1,28 @@
+###註冊
+POST http://localhost:8080/user/register
+Content-Type: application/json
+
+{
+  "username": "xxx",
+  "nickname": "ooo",
+  "password": "123456",
+  "mobile": "0224230055"
+}
+
+
+###查詢註冊時間比createdTime晚的用戶信息
+GET http://localhost:8080/user/list/2020-02-14
+
+
+###更新用戶信息
+PUT http://localhost:8080/user/update
+Content-Type: application/json
+
+{
+  "id": 1,
+  "username": "ooo",
+  "nickname": "xxx",
+  "password": "123456",
+  "mobile": "0224230055",
+  "status": 1
+}

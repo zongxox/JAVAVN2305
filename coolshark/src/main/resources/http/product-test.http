@@ -1,0 +1,44 @@
+###新增一條商品模塊紀錄
+POST http://localhost/product/insert
+Content-Type: application/json
+
+{
+  "title": "酸梅湯",
+  "url": "95f46cce-3a20-484c-a217-f30fc6a156a0.jpg",
+  "price": 300,
+  "oldPrice": 400,
+  "saleCount": 9999,
+  "categoryId": 9
+}
+
+
+
+###查詢前端頁面中所有商品列表
+GET http://localhost/product/list/index
+
+
+###查詢後端頁面中所有商品列表榜信息
+GET http://localhost/product/list/admin
+
+###查詢排行前六條,只需要查詢標題和銷量
+GET http://localhost/product/list/top
+
+###基於關鍵字查詢某個商品
+GET http://localhost/product/selectByWd/酸
+
+###通過id查詢去查詢某個商品
+###並且瀏覽量+1
+GET  http://localhost/product/select/18
+
+
+###分類id查詢相關商品
+GET http://localhost/product/selectByCid/9
+
+
+
+
+
+
+
+###刪除D盤中圖片以及刪除數據庫圖片名
+DELETE http://localhost/product/delete/18

@@ -1,0 +1,374 @@
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-23T014256.500.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-23T014105.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-23T014025.500.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-23T013931.500.json
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T010458.200.json
+
+###
+
+POST http://localhost/category/insert
+Content-Type: application/json
+
+{
+  "name": "你好"
+}
+
+###
+
+POST http://localhost/category/insert
+Content-Type: application/json
+
+{
+  "name": "你好"
+}
+
+###
+
+POST http://localhost/category/insert
+Content-Type: application/json
+
+{
+  "name": "你好"
+}
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T010103.200.json
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T010100.200.json
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T005730.200.json
+
+###
+
+GET http://localhost/category/selectbyid/13
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T005714.200.json
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T005711.200.json
+
+###
+
+POST http://localhost/category/insert
+Content-Type: application/json
+
+{
+  "name": "你好"
+}
+
+###
+
+GET http://localhost/category/selectlist
+
+<> 2024-02-23T005655.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T232422.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T231817.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T224930.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T215548.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T215416.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T202406.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-21T201430.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-20T225825.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-20T224945.500.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-20T214145.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-20T214041.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-20T212006.200.json
+
+###
+
+POST http://localhost/product/insert
+Content-Type: application/json
+
+{
+  "title": "酸梅湯",
+  "url": "95f46cce-3a20-484c-a217-f30fc6a156a0.jpg",
+  "price": 300,
+  "oldPrice": 400,
+  "saleCount": 9999,
+  "categoryId": 9
+}
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-19T195626.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-19T194943.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-19T124519.200.json
+
+###
+
+GET http://localhost/product/list/index
+
+<> 2024-02-19T031147.200.json
+
+###
+
+GET http://localhost/user/currentUser
+
+<> 2024-02-19T001652.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-19T001633.200.json
+
+###
+
+GET http://localhost/user/currentUser
+
+<> 2024-02-19T001227.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-19T001221.200.json
+
+###
+
+GET http://localhost/user/currentUser
+
+<> 2024-02-19T000917.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-19T000911.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-19T000856.200.json
+
+###
+
+GET http://localhost/user/currentUser
+
+<> 2024-02-19T000831.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-19T000824.200.json
+
+###
+
+POST http://localhost/user/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "123456"
+}
+
+<> 2024-02-19T000736.200.json
+
+###
+
+POST http://localhost/product/insert
+Content-Type: application/json
+
+{
+  "title": "酸梅湯",
+  "url": "95f46cce-3a20-484c-a217-f30fc6a156a0.jpg",
+  "price": 300,
+  "oldPrice": 400,
+  "saleCount": 9999,
+  "categoryId": 9
+}
+
+###
+
+GET http://localhost/user/currentUser
+
+###
+
+GET http://localhost/user/currentUser
+
+###
+
+GET http://localhost/user/currentUser
+
+###
+
+GET http://localhost/user/logout
+
+###
+
+GET http://localhost/user/currentUser
+
+###
+
+GET http://localhost/user/currentUser
+
+###
+

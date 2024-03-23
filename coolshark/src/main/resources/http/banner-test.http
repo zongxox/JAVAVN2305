@@ -1,0 +1,13 @@
+###添加輪播圖數據
+POST http://localhost/banner/insert
+Content-Type: application/json
+
+{
+  "url": "1391953c-5235-4043-844a-9b88b3ca83c9.jpg"
+}
+
+###查詢所有輪播圖
+GET http://localhost/banner/list
+
+###基於id刪除倫播圖
+DELETE http://localhost/banner/delete/12

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d93cbe5-6e13-4071-b910-1f37177ec19c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="HTTP Request" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/coolshark/src/main/resources/application.yml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TbAesDU7NRxkCvxRZRyOiF3wVE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../coolshark" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4434968" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.tedu.pojo" />
+      <recent name="cn.tedu.pojo.Emp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\javavn2305" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tedu.annotation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HTTP Request.user-test#1">
+    <configuration name="category-test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/coolshark/src/main/resources/http/category-test.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="category-test#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/coolshark/src/main/resources/http/category-test.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="category-test#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/coolshark/src/main/resources/http/category-test.http" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="user-test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/coolshark/src/main/resources/http/user-test.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CoolsharkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coolshark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.CoolsharkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringMVC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.SpringMvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.user-test#1" />
+        <item itemvalue="Spring Boot.CoolsharkApplication" />
+        <item itemvalue="HTTP Request.category-test#2" />
+        <item itemvalue="HTTP Request.category-test#1" />
+        <item itemvalue="HTTP Request.category-test#3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d93cbe5-6e13-4071-b910-1f37177ec19c" name="Default Changelist" comment="" />
+      <created>1691301096641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691301096641</updated>
+      <workItem from="1691301097727" duration="407000" />
+      <workItem from="1691301506090" duration="6333000" />
+      <workItem from="1691407710936" duration="6890000" />
+      <workItem from="1691414755135" duration="44000" />
+      <workItem from="1691414823446" duration="276000" />
+      <workItem from="1691415109973" duration="105000" />
+      <workItem from="1691415295182" duration="65000" />
+      <workItem from="1691415374119" duration="452000" />
+      <workItem from="1691415835485" duration="1092000" />
+      <workItem from="1691416943058" duration="859000" />
+      <workItem from="1691491888542" duration="1205000" />
+      <workItem from="1691493109136" duration="206000" />
+      <workItem from="1691493325525" duration="3181000" />
+      <workItem from="1691497360172" duration="83000" />
+      <workItem from="1691497460859" duration="252000" />
+      <workItem from="1691497729429" duration="5845000" />
+      <workItem from="1691750943832" duration="2424000" />
+      <workItem from="1691764968955" duration="1700000" />
+      <workItem from="1691766786495" duration="18000" />
+      <workItem from="1691768996884" duration="75000" />
+      <workItem from="1696555378112" duration="32000" />
+      <workItem from="1706954796920" duration="28000" />
+      <workItem from="1707508461652" duration="18000" />
+      <workItem from="1707732146085" duration="1586000" />
+      <workItem from="1707733740798" duration="177000" />
+      <workItem from="1707733926126" duration="423000" />
+      <workItem from="1707734440588" duration="1480000" />
+      <workItem from="1707735931890" duration="183000" />
+      <workItem from="1707736124072" duration="853000" />
+      <workItem from="1707736986939" duration="5728000" />
+      <workItem from="1707784031644" duration="7842000" />
+      <workItem from="1707792574423" duration="6851000" />
+      <workItem from="1707799548828" duration="2079000" />
+      <workItem from="1707829185607" duration="1152000" />
+      <workItem from="1707831377925" duration="307000" />
+      <workItem from="1707832295638" duration="11016000" />
+      <workItem from="1707845849996" duration="1043000" />
+      <workItem from="1707889931707" duration="16866000" />
+      <workItem from="1707997299860" duration="12462000" />
+      <workItem from="1708011640267" duration="103000" />
+      <workItem from="1708081872414" duration="2075000" />
+      <workItem from="1708084465011" duration="1985000" />
+      <workItem from="1708106410475" duration="15470000" />
+      <workItem from="1708148968273" duration="19407000" />
+      <workItem from="1708253034993" duration="20569000" />
+      <workItem from="1708313875604" duration="15089000" />
+      <workItem from="1708429241370" duration="10993000" />
+      <workItem from="1708515384828" duration="10808000" />
+      <workItem from="1708616296190" duration="8102000" />
+      <workItem from="1708692572716" duration="1143000" />
+      <workItem from="1708694189170" duration="4991000" />
+      <workItem from="1708774441475" duration="8000" />
+      <workItem from="1708796012275" duration="1145000" />
+      <workItem from="1709299050573" duration="5905000" />
+      <workItem from="1711155413693" duration="5747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

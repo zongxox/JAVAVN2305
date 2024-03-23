@@ -1,0 +1,17 @@
+###//新增一條商品分類
+POST http://localhost/category/insert
+Content-Type: application/json
+
+{
+  "name": "你好"
+}
+
+###查詢所有分類
+GET http://localhost/category/selectlist
+
+###基於id查詢分類
+GET http://localhost/category/selectbyid/13
+
+
+###基於id刪除一條分類
+DELETE http://localhost/category/delete/13

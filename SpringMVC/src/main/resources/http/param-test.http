@@ -1,0 +1,17 @@
+###傳遞字符串
+GET http://localhost:8080/param1?name=th
+
+###傳遞基本數據類型
+GET http://localhost:8080/param2?name=th&age=29
+
+
+###傳遞對象類型數據
+GET http://localhost:8080/param3?name=th&age=29&job=講師
+
+
+###傳遞數組類型1
+GET http://localhost:8080/param4?ids=1&ids=2&ids=3
+
+###傳遞數組類型2
+GET http://localhost:8080/param4?ids=1,2,3
+
