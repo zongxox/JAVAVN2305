@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d93cbe5-6e13-4071-b910-1f37177ec19c" name="Default Changelist" comment="" />
+    <list default="true" id="7d93cbe5-6e13-4071-b910-1f37177ec19c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coolshark/src/main/resources/http/product-test.http" beforeDir="false" afterPath="$PROJECT_DIR$/coolshark/src/main/resources/http/product-test.http" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,6 +194,7 @@
       <workItem from="1708796012275" duration="1145000" />
       <workItem from="1709299050573" duration="5905000" />
       <workItem from="1711155413693" duration="5747000" />
+      <workItem from="1711165376904" duration="825000" />
     </task>
     <servers />
   </component>

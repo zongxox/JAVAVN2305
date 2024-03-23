@@ -12,7 +12,6 @@ Content-Type: application/json
 }
 
 
-
 ###查詢前端頁面中所有商品列表
 GET http://localhost/product/list/index
 
@@ -30,15 +29,8 @@ GET http://localhost/product/selectByWd/酸
 ###並且瀏覽量+1
 GET  http://localhost/product/select/18
 
-
 ###分類id查詢相關商品
 GET http://localhost/product/selectByCid/9
-
-
-
-
-
-
 
 ###刪除D盤中圖片以及刪除數據庫圖片名
 DELETE http://localhost/product/delete/18
